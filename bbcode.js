@@ -1,4 +1,4 @@
-import markdown from './MarkDown.js';
+import markdown from 'https://cdn.jsdelivr.net/gh/MoreBugOfDog/cdn-file/MarkDown.js';
 const obj = window || global || {};
 let runtime;
 // 以下代码来自github  https://github.com/vishnevskiy/bbcodejs
